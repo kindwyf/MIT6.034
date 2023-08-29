@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Fall 2010 Exams Quiz 1 (PDF)
+Quiz 2 (PDF)
+Quiz 3 (PDF)
+Quiz 4 (PDF)
+Final exam (PDF)
+Fall 2009 Exams Quiz 1 (PDF)
+Quiz 2 (PDF)
+Quiz 3 (PDF)
+Quiz 4 (PDF)
+Final exam (PDF)
+Fall 2008 Exams Quiz 1 (PDF)
+Quiz 2 (PDF)
+Quiz 3 (PDF)
+Quiz 4 (PDF)
+Final exam (PDF)
+Fall 2007 Exams Quiz 1 (PDF)
+Quiz 2 (PDF)
+Quiz 3 (PDF)
+Quiz 4 (PDF)</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_final_2007.pdf</title>
+      <link>/resources/mit6_034f10_final_2007/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_final_2007/data.json</guid>
+      <description>This resource contains information related to backward chaining.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_final_2008.pdf</title>
+      <link>/resources/mit6_034f10_final_2008/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_final_2008/data.json</guid>
+      <description>This resource contains information related to forward chaining.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_final_2009.pdf</title>
+      <link>/resources/mit6_034f10_final_2009/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_final_2009/data.json</guid>
+      <description>This resource contains information related to forward chaining.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_final_2010.pdf</title>
+      <link>/resources/mit6_034f10_final_2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_final_2010/data.json</guid>
+      <description>This resource contains information related to backward chaining.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz1_2007.pdf</title>
+      <link>/resources/mit6_034f10_quiz1_2007/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz1_2007/data.json</guid>
+      <description>This resource contains information related to rule systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz1_2008.pdf</title>
+      <link>/resources/mit6_034f10_quiz1_2008/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz1_2008/data.json</guid>
+      <description>This resource contains information related to rule systems.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz1_2009.pdf</title>
+      <link>/resources/mit6_034f10_quiz1_2009/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz1_2009/data.json</guid>
+      <description>This resource contains information related to rule based system.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz1_2010.pdf</title>
+      <link>/resources/mit6_034f10_quiz1_2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz1_2010/data.json</guid>
+      <description>This resource contains information related to reverse psychology and self-fulfilling prophecy.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz2_2007.pdf</title>
+      <link>/resources/mit6_034f10_quiz2_2007/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz2_2007/data.json</guid>
+      <description>This resource contains information related to games.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz2_2008.pdf</title>
+      <link>/resources/mit6_034f10_quiz2_2008/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz2_2008/data.json</guid>
+      <description>This resource contains information related to alpha beta cold war.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz2_2009.pdf</title>
+      <link>/resources/mit6_034f10_quiz2_2009/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz2_2009/data.json</guid>
+      <description>This resource contains information related to pruned tree.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz2_2010.pdf</title>
+      <link>/resources/mit6_034f10_quiz2_2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz2_2010/data.json</guid>
+      <description>This resource contains information related to perform minimax.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz3_2007.pdf</title>
+      <link>/resources/mit6_034f10_quiz3_2007/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz3_2007/data.json</guid>
+      <description>This resource contains information related to nearest neighbors.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz3_2008.pdf</title>
+      <link>/resources/mit6_034f10_quiz3_2008/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz3_2008/data.json</guid>
+      <description>This resource contains information related to neural net notes.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz3_2009.pdf</title>
+      <link>/resources/mit6_034f10_quiz3_2009/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz3_2009/data.json</guid>
+      <description>This resource contains information related to zombie infection.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz3_2010.pdf</title>
+      <link>/resources/mit6_034f10_quiz3_2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz3_2010/data.json</guid>
+      <description>This resource contains information related to k-nearest-neighbors.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz4_2007.pdf</title>
+      <link>/resources/mit6_034f10_quiz4_2007/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz4_2007/data.json</guid>
+      <description>This resource contains information related to support vector machines.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz4_2008.pdf</title>
+      <link>/resources/mit6_034f10_quiz4_2008/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz4_2008/data.json</guid>
+      <description>This resource contains information related to support vectors.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz4_2009.pdf</title>
+      <link>/resources/mit6_034f10_quiz4_2009/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz4_2009/data.json</guid>
+      <description>This resource contains information related to bayesian inference.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_quiz4_2010.pdf</title>
+      <link>/resources/mit6_034f10_quiz4_2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_quiz4_2010/data.json</guid>
+      <description>This resource contains information related to distinguishing dwarves from humans.</description>
+    </item>
+    
+  </channel>
+</rss>

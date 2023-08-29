@@ -1,0 +1,6 @@
+
+{
+  "title":"Assignments",
+  "content":"These problem sets (also known as \u0026ldquo;labs\u0026rdquo; in 6.034) are from the Fall 2012 version of the course, but should line up well with the Fall 2010 lectures.\nPROBLEM SETS TOPICS CODE FILES Problem Set 0 (PDF) Python programming, symbolic algebra Code for Problem Set 0 (ZIP) (This ZIP file contains: 5 .py files.) Problem Set 1 (PDF) Forward chaining, backward chaining and goal trees Code for Problem Set 1 (ZIP) (This ZIP file contains: 7 .py files.) Problem Set 2 (PDF) Search, using heuristics, optimal search, graph heuristics Code for Problem Set 2 (ZIP) (This ZIP file contains: 5 .py files.) Problem Set 3 (PDF) Game search Code for Problem Set 3 (ZIP) (This ZIP file contains: 7 .py files.) Problem Set 4 (PDF) Constraint satisfaction problems, k-nearest neighbors, decision trees Code for Problem Set 4 (ZIP) (This ZIP file contains: 12 .py files, 6 .ord files, 4 .csv files and 2 .dat files. sudoku_csp.py is courtesy of Justin Cullen, and is used with permission.) Problem Set 5 (PDF) Neural nets, boosting Code for Problem Set 5 (ZIP - 1.2MB) (This ZIP file contains: 12 .py files, 2 .dat files, 5 .csv files, 6 .ord files, 1 .out file, and 9 .tab files.) "}
+
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction and Scope</title>
+      <link>/resources/lecture-1-introduction-and-scope/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-1-introduction-and-scope/data.json</guid>
+      <description>Description: In this lecture, Prof. Winston introduces artificial intelligence and provides a brief history of the field. The last ten minutes are devoted to information about the course at MIT.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Introduction to Learning, Nearest Neighbors</title>
+      <link>/resources/lecture-10-introduction-to-learning-nearest-neighbors/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-10-introduction-to-learning-nearest-neighbors/data.json</guid>
+      <description>Description: This lecture begins with a high-level view of learning, then covers nearest neighbors using several graphical examples. We then discuss how to learn motor skills such as bouncing a tennis ball, and consider the effects of sleep deprivation.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Learning: Identification Trees, Disorder</title>
+      <link>/resources/lecture-11-learning-identification-trees-disorder/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-11-learning-identification-trees-disorder/data.json</guid>
+      <description>Description: In this lecture, we build an identification tree based on yes/no tests. We start by arranging the tree based on tests that result in homogeneous subsets. For larger datasets, this is generalized by measuring the disorder of subsets.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12A: Neural Nets</title>
+      <link>/resources/lecture-12a-neural-nets/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-12a-neural-nets/data.json</guid>
+      <description>Description: In this video, Prof. Winston introduces neural nets and back propagation.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12B: Deep Neural Nets</title>
+      <link>/resources/lecture-12b-deep-neural-nets/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-12b-deep-neural-nets/data.json</guid>
+      <description>Description: In this lecture, Prof. Winston discusses modern breakthroughs in neural net research.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13: Learning: Genetic Algorithms</title>
+      <link>/resources/lecture-13-learning-genetic-algorithms/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-13-learning-genetic-algorithms/data.json</guid>
+      <description>Description: This lecture explores genetic algorithms at a conceptual level. We consider three approaches to how a population evolves towards desirable traits, ending with ranks of both fitness and diversity. We briefly discuss how this space is rich with solutions.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: Learning: Sparse Spaces, Phonology</title>
+      <link>/resources/lecture-14-learning-sparse-spaces-phonology/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-14-learning-sparse-spaces-phonology/data.json</guid>
+      <description>Description: Why do &amp;ldquo;cats&amp;rdquo; and &amp;ldquo;dogs&amp;rdquo; end with different plural sounds, and how do we learn this? We can represent this problem in terms of distinctive features, and then generalize. We end this lecture with a brief discussion of how to approach AI problems.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Learning: Near Misses, Felicity Conditions</title>
+      <link>/resources/lecture-15-learning-near-misses-felicity-conditions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-15-learning-near-misses-felicity-conditions/data.json</guid>
+      <description>Description: To determine whether three blocks form an arch, we use a model which evolves through examples and near misses; this is an example of one-shot learning. We also discuss other aspects of how students learn, and how to package your ideas better.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Learning: Support Vector Machines</title>
+      <link>/resources/lecture-16-learning-support-vector-machines/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-16-learning-support-vector-machines/data.json</guid>
+      <description>Description: In this lecture, we explore support vector machines in some mathematical detail. We use Lagrange multipliers to maximize the width of the street given certain constraints. If needed, we transform vectors into another space, using a kernel function.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Learning: Boosting</title>
+      <link>/resources/lecture-17-learning-boosting/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-17-learning-boosting/data.json</guid>
+      <description>Description: Can multiple weak classifiers be used to make a strong one? We examine the boosting algorithm, which adjusts the weight of each classifier, and work through the math. We end with how boosting doesn&amp;rsquo;t seem to overfit, and mention some applications.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18: Representations: Classes, Trajectories, Transitions</title>
+      <link>/resources/lecture-18-representations-classes-trajectories-transitions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-18-representations-classes-trajectories-transitions/data.json</guid>
+      <description>Description: In this lecture, we consider the nature of human intelligence, including our ability to tell and understand stories. We discuss the most useful elements of our inner language: classification, transitions, trajectories, and story sequences.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind</title>
+      <link>/resources/lecture-19-architectures-gps-soar-subsumption-society-of-mind/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-19-architectures-gps-soar-subsumption-society-of-mind/data.json</guid>
+      <description>Description: In this lecture, we consider cognitive architectures, including General Problem Solver, SOAR, Emotion Machine, Subsumption, and Genesis. Each is based on a different hypothesis about human intelligence, such as the importance of language and stories.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Reasoning: Goal Trees and Problem Solving</title>
+      <link>/resources/lecture-2-reasoning-goal-trees-and-problem-solving/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-2-reasoning-goal-trees-and-problem-solving/data.json</guid>
+      <description>Description: This lecture covers a symbolic integration program from the early days of AI. We use safe and heuristic transformations to simplify the problem, and then consider broader questions of how much knowledge is involved, and how the knowledge is represented.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Probabilistic Inference I</title>
+      <link>/resources/lecture-21-probabilistic-inference-i/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-21-probabilistic-inference-i/data.json</guid>
+      <description>Description: We begin this lecture with basic probability concepts, and then discuss belief nets, which capture causal relationships between events and allow us to specify the model more simply. We can then use the chain rule to calculate the joint probability table.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22: Probabilistic Inference II</title>
+      <link>/resources/lecture-22-probabilistic-inference-ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-22-probabilistic-inference-ii/data.json</guid>
+      <description>Description: We begin with a review of inference nets, then discuss how to use experimental data to develop a model, which can be used to perform simulations. If we have two competing models, we can use Bayes&amp;rsquo; rule to determine which is more likely to be accurate.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary</title>
+      <link>/resources/lecture-23-model-merging-cross-modal-coupling-course-summary/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-23-model-merging-cross-modal-coupling-course-summary/data.json</guid>
+      <description>Description: This lecture begins with a brief discussion of cross-modal coupling. Prof. Winston then reviews big ideas of the course, suggests possible next courses, and demonstrates how a story can be understood from multiple points of view at a conceptual level.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems</title>
+      <link>/resources/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-3-reasoning-goal-trees-and-rule-based-expert-systems/data.json</guid>
+      <description>Description: We consider a block-stacking program, which can answer questions about its own behavior, and then identify an animal given a list of its characteristics. Finally, we discuss how to extract knowledge from an expert, using the example of bagging groceries.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Search: Depth-First, Hill Climbing, Beam</title>
+      <link>/resources/lecture-4-search-depth-first-hill-climbing-beam/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-4-search-depth-first-hill-climbing-beam/data.json</guid>
+      <description>Description: This lecture covers algorithms for depth-first and breadth-first search, followed by several refinements: keeping track of nodes already considered, hill climbing, and beam search. We end with a brief discussion of commonsense vs. reflective knowledge.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Search: Optimal, Branch and Bound, A*</title>
+      <link>/resources/lecture-5-search-optimal-branch-and-bound-a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-5-search-optimal-branch-and-bound-a/data.json</guid>
+      <description>Description: This lecture covers strategies for finding the shortest path. We discuss branch and bound, which can be refined by using an extended list or an admissible heuristic, or both (known as A*). We end with an example where the heuristic must be consistent.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Search: Games, Minimax, and Alpha-Beta</title>
+      <link>/resources/lecture-6-search-games-minimax-and-alpha-beta/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-6-search-games-minimax-and-alpha-beta/data.json</guid>
+      <description>Description: In this lecture, we consider strategies for adversarial games such as chess. We discuss the minimax algorithm, and how alpha-beta pruning improves its efficiency. We then examine progressive deepening, which ensures that some answer is always available.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Constraints: Interpreting Line Drawings</title>
+      <link>/resources/lecture-7-constraints-interpreting-line-drawings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-7-constraints-interpreting-line-drawings/data.json</guid>
+      <description>Description: How can we recognize the number of objects in a line drawing? We consider how Guzman, Huffman, and Waltz approached this problem. We then solve an example using a method based on constraint propagation, with a limited set of junction and line labels.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Constraints: Search, Domain Reduction</title>
+      <link>/resources/lecture-8-constraints-search-domain-reduction/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-8-constraints-search-domain-reduction/data.json</guid>
+      <description>Description: This lecture covers map coloring and related scheduling problems. We develop pseudocode for the domain reduction algorithm and consider how much constraint propagation is most efficient, and whether to start with the most or least constrained variables.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Constraints: Visual Object Recognition</title>
+      <link>/resources/lecture-9-constraints-visual-object-recognition/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-9-constraints-visual-object-recognition/data.json</guid>
+      <description>Description: We consider how object recognition has evolved over the past 30 years. In alignment theory, 2-D projections are used to determine whether an additional picture is of the same object. To recognize faces, we use intermediate-sized features and correlation.
+Instructor: Patrick H. Winston</description>
+    </item>
+    
+    <item>
+      <title>Lecture Videos</title>
+      <link>/video_galleries/lecture-videos/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video_galleries/lecture-videos/data.json</guid>
+      <description>Below are full-length lecture videos that cover the content in this course. Lecture 20, which focuses on the AI business, is not available.
+Lecture 1: Introduction and Scope Lecture 2: Reasoning: Goal Trees and Problem Solving Lecture 3: Reasoning: Goal Trees and Rule-Based Expert Systems Lecture 4: Search: Depth-First, Hill Climbing, Beam Lecture 5: Search: Optimal, Branch and Bound, A* Lecture 6: Search: Games, Minimax, and Alpha-Beta Lecture 7: Constraints: Interpreting Line Drawings Lecture 8: Constraints: Search, Domain Reduction Lecture 9: Constraints: Visual Object Recognition Lecture 10: Introduction to Learning, Nearest Neighbors Lecture 11: Learning: Identification Trees, Disorder Lecture 12A: Neural Nets Lecture 12B: Deep Neural Nets Lecture 13: Learning: Genetic Algorithms Lecture 14: Learning: Sparse Spaces, Phonology Lecture 15: Learning: Near Misses, Felicity Conditions Lecture 16: Learning: Support Vector Machines Lecture 17: Learning: Boosting Lecture 18: Representations: Classes, Trajectories, Transitions Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind Lecture 21: Probabilistic Inference I Lecture 22: Probabilistic Inference II Lecture 23: Model Merging, Cross-Modal Coupling, Course Summary </description>
+    </item>
+    
+  </channel>
+</rss>

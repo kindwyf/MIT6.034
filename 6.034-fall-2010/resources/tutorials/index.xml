@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on MIT OpenCourseWare</title>
+    <link>/resources/tutorials/</link>
+    <description>Recent content in Tutorials on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.034 Tutorial 1: Rule-based systems, search</title>
+      <link>/resources/mit6_034f10_tutor01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor01/data.json</guid>
+      <description>This resource contains information related to rule-based systems, search.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Tutorial 2: Games, constraint satisfaction problems</title>
+      <link>/resources/mit6_034f10_tutor02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor02/data.json</guid>
+      <description>This resource contains information related to games, constraint satisfaction problems.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Tutorial 3: K-nearest neighbors, decision trees, neural nets</title>
+      <link>/resources/mit6_034f10_tutor03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor03/data.json</guid>
+      <description>This resource contains information related to K-nearest neighbors, decision trees, neural nets.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Tutorial 4: Top-down approach to neural nets</title>
+      <link>/resources/mit6_034f10_tutor04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor04/data.json</guid>
+      <description>This resource contains information related to top-down approach to neural nets.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Tutorial 5: Probability, Bayes nets, naïve Bayes, model selection</title>
+      <link>/resources/mit6_034f10_tutor06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor06/data.json</guid>
+      <description>This resource contains information related to probability, Bayes nets, naïve Bayes, model selection.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Tutorial 5: Support vector machines, boosting</title>
+      <link>/resources/mit6_034f10_tutor05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_tutor05/data.json</guid>
+      <description>This resource contains information related to support vector machines, boosting.</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>/pages/tutorials/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tutorials/data.json</guid>
+      <description>Tutorial notes are courtesy of Yuan Shen, and are used with permission.
+TUTORIAL NOTES TOPICS Tutorial 1 (PDF) Rule-based systems, search Tutorial 2 (PDF) Games, constraint satisfaction problems Tutorial 3 (PDF) K-nearest neighbors, decision trees, neural nets Tutorial 4 (PDF) Top-down approach to neural nets Tutorial 5 (PDF) Support vector machines, boosting Tutorial 6 (PDF) Probability, Bayes nets, naïve Bayes, model selection </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6.034 Artificial Intelligence, Lab 0</title>
+      <link>/resources/mit6_034f10_lab0/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab0/data.json</guid>
+      <description>This resource contains information regarding assignment 0.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Artificial Intelligence, Lab 1</title>
+      <link>/resources/mit6_034f10_lab1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab1/data.json</guid>
+      <description>This resource contains information regarding assignment 1.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Artificial Intelligence, Lab 2</title>
+      <link>/resources/mit6_034f10_lab2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab2/data.json</guid>
+      <description>This resource contains information regarding assignment 2.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Artificial Intelligence, Lab 3</title>
+      <link>/resources/mit6_034f10_lab3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab3/data.json</guid>
+      <description>This resource contains information regarding assignment 3.</description>
+    </item>
+    
+    <item>
+      <title>6.034 Artificial Intelligence, Lab 5</title>
+      <link>/resources/mit6_034f10_lab5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab5/data.json</guid>
+      <description>This resource contains information regarding assignment 5.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>These problem sets (also known as &amp;ldquo;labs&amp;rdquo; in 6.034) are from the Fall 2012 version of the course, but should line up well with the Fall 2010 lectures.
+PROBLEM SETS TOPICS CODE FILES Problem Set 0 (PDF) Python programming, symbolic algebra Code for Problem Set 0 (ZIP) (This ZIP file contains: 5 .py files.) Problem Set 1 (PDF) Forward chaining, backward chaining and goal trees Code for Problem Set 1 (ZIP) (This ZIP file contains: 7 .</description>
+    </item>
+    
+    <item>
+      <title>lab0.zip</title>
+      <link>/resources/lab0/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab0/data.json</guid>
+      <description>This is a special file for assignment 0.</description>
+    </item>
+    
+    <item>
+      <title>lab1.zip</title>
+      <link>/resources/lab1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab1/data.json</guid>
+      <description>This is a special file for assignment 1.</description>
+    </item>
+    
+    <item>
+      <title>lab2.zip</title>
+      <link>/resources/lab2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab2/data.json</guid>
+      <description>This is a special file for assignment 2.</description>
+    </item>
+    
+    <item>
+      <title>lab3.zip</title>
+      <link>/resources/lab3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab3/data.json</guid>
+      <description>This is a special file for assignment 3.</description>
+    </item>
+    
+    <item>
+      <title>lab4.zip</title>
+      <link>/resources/lab4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab4/data.json</guid>
+      <description>This is a special file for assignment 4.</description>
+    </item>
+    
+    <item>
+      <title>lab5.zip</title>
+      <link>/resources/lab5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lab5/data.json</guid>
+      <description>This is a special file for assignment 5.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_034F10_lab4.pdf</title>
+      <link>/resources/mit6_034f10_lab4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_034f10_lab4/data.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
