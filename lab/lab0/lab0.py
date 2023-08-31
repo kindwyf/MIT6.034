@@ -78,18 +78,13 @@ def depth(expr):
 
 # Problem 2.3: Tree indexing
 
-def tree_ref(tree, index):  # 需要优化，这是死办法
+def tree_ref(tree, index):
     if not isinstance(tree, list):
-        return 0;
-    length = len(index)
-    if length==0:
         return 0
-    if length==1:
-       return tree[index[0]]
-    if length==2:
-        return tree[index[0]][index[1]]
-    if length==3:
-        return tree[index[0]][index[1]][index[2]]
+    subtree = tree
+    for i in index:
+        subtree = subtree[i]  # follow the depth to find
+    return subtree
 
 
 # Section 3: Symbolic algebra

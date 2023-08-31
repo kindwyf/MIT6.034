@@ -21,8 +21,8 @@ class NoClobberDict(DictMixin):
         return self._dict[key]
 
     def __setitem__(self, key, value):
-        if key in self._dict and self._dict[key] != value:
-            raise ClobberedDictKey(key, value)
+        if self._dict.has_key(key) and self._dict[key] != value:
+            raise ClobberedDictKey, (key, value)
 
         self._dict[key] = value
 
@@ -36,10 +36,10 @@ class NoClobberDict(DictMixin):
         return self._dict.__iter__()
 
     def iteritems(self):
-        return iter(self._dict.items())
+        return self._dict.iteritems()
         
     def keys(self):
-        return list(self._dict.keys())
+        return self._dict.keys()
 
 # A regular expression for finding variables.
 AIRegex = re.compile(r'\(\?(\S+)\)')
