@@ -23,7 +23,7 @@
 #   3. Python v3.0
 # Fill in your answer in the next line of code ("1", "2", or "3"):
 
-ANSWER_1 = 'fill-me-in'
+ANSWER_1 = '2'
 
 
 # Section 2: Programming warmup _____________________________________________
@@ -31,25 +31,65 @@ ANSWER_1 = 'fill-me-in'
 # Problem 2.1: Warm-Up Stretch
 
 def cube(x):
-    raise NotImplementedError
+    return x*x*x
 
 def factorial(x):
-    raise NotImplementedError
+    if x<0:
+        raise Exception("factorial: input must not be negative")
+    if x==0:
+        return 1
+    return x*factorial(x-1)
 
 def count_pattern(pattern, lst):
-    raise NotImplementedError
+    if len(pattern)==0:
+        raise  Exception("count_pattern: pattern length is zero")
+    count = 0
+    for i in range(0, len(lst)):
+        k = i
+        j = 0
+        index = 1
+        while j<len(pattern):
+            if pattern[j] != lst[k]:
+                index = 0
+                break
+            k = k + 1
+            j = j + 1
+        if index:
+            count += 1
+    return count
 
 
 # Problem 2.2: Expression depth
 
 def depth(expr):
-    raise NotImplementedError
+    if not isinstance(expr,list):
+        return 0;
+    lst = []
+    if len(expr)>0:  # 如果expr>0，将expr里面所有属于list的放到新的lst，总深度+1，对新的lst递归调用depth
+        for i in expr:
+            if isinstance(i,list):
+                for j in i:
+                    lst.append(j)
+        expr = lst
+        return 1 + depth(expr)
+    else:
+        return 0
 
 
 # Problem 2.3: Tree indexing
 
-def tree_ref(tree, index):
-    raise NotImplementedError
+def tree_ref(tree, index):  # 需要优化，这是死办法
+    if not isinstance(tree, list):
+        return 0;
+    length = len(index)
+    if length==0:
+        return 0
+    if length==1:
+       return tree[index[0]]
+    if length==2:
+        return tree[index[0]][index[1]]
+    if length==3:
+        return tree[index[0]][index[1]][index[2]]
 
 
 # Section 3: Symbolic algebra
