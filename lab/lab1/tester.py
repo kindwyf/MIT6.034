@@ -1,4 +1,4 @@
-import xmlrpc.client
+# import xmlrpc.client
 import traceback
 import sys
 import os
@@ -215,61 +215,61 @@ def get_tarball_data(target_dir, filename):
     return data.getvalue()
     
 
-def test_online(verbosity=1):
-    """ Run online unit tests.  Run them against the 6.034 server via XMLRPC. """
-    lab = get_lab_module()
-
-    try:
-        server = xmlrpc.client.Server(server_url, allow_none=True)
-        tests = server.get_tests(username, password, lab.__name__)
-    except NotImplementedError: # Solaris Athena doesn't seem to support HTTPS
-        print("Your version of Python doesn't seem to support HTTPS, for")
-        print("secure test submission.  Would you like to downgrade to HTTP?")
-        print("(note that this could theoretically allow a hacker with access")
-        print("to your local network to find your 6.034 password)")
-        answer = input("(Y/n) >>> ")
-        if len(answer) == 0 or answer[0] in "Yy":
-            server = xmlrpc.client.Server(server_url.replace("https", "http"))
-            tests = server.get_tests(username, password, lab.__name__)
-        else:
-            print("Ok, not running your tests.")
-            print("Please try again on another computer.")
-            print("Linux Athena computers are known to support HTTPS,")
-            print("if you use the version of Python in the 'python' locker.")
-            sys.exit(0)
-            
-    ntests = len(tests)
-    ncorrect = 0
-
-    lab = get_lab_module()
-    
-    target_dir = get_target_upload_filedir()
-
-    tarball_data = get_tarball_data(target_dir, "lab%s.tar.bz2" % lab.LAB_NUMBER)
-            
-    print("Submitting to the 6.034 Webserver...")
-
-    server.submit_code(username, password, lab.__name__, xmlrpc.client.Binary(tarball_data))
-
-    print("Done submitting code.")
-    print("Running test cases...")
-    
-    for index, testcode in enumerate(tests):
-        dispindex = index+1
-        summary = test_summary(dispindex, ntests)
-
-        try:
-            answer = run_test(testcode, get_lab_module())
-        except Exception:
-            show_exception(summary, testcode)
-            continue
-
-        correct, expected = server.send_answer(username, password, lab.__name__, testcode[0], type_encode(answer))
-        show_result(summary, testcode, correct, answer, expected, verbosity)
-        if correct: ncorrect += 1
-    
-    response = server.status(username, password, lab.__name__)
-    print(response)
+# def test_online(verbosity=1):
+#     """ Run online unit tests.  Run them against the 6.034 server via XMLRPC. """
+#     lab = get_lab_module()
+#
+#     try:
+#         server = xmlrpc.client.Server(server_url, allow_none=True)
+#         tests = server.get_tests(username, password, lab.__name__)
+#     except NotImplementedError: # Solaris Athena doesn't seem to support HTTPS
+#         print("Your version of Python doesn't seem to support HTTPS, for")
+#         print("secure test submission.  Would you like to downgrade to HTTP?")
+#         print("(note that this could theoretically allow a hacker with access")
+#         print("to your local network to find your 6.034 password)")
+#         answer = input("(Y/n) >>> ")
+#         if len(answer) == 0 or answer[0] in "Yy":
+#             server = xmlrpc.client.Server(server_url.replace("https", "http"))
+#             tests = server.get_tests(username, password, lab.__name__)
+#         else:
+#             print("Ok, not running your tests.")
+#             print("Please try again on another computer.")
+#             print("Linux Athena computers are known to support HTTPS,")
+#             print("if you use the version of Python in the 'python' locker.")
+#             sys.exit(0)
+#
+#     ntests = len(tests)
+#     ncorrect = 0
+#
+#     lab = get_lab_module()
+#
+#     target_dir = get_target_upload_filedir()
+#
+#     tarball_data = get_tarball_data(target_dir, "lab%s.tar.bz2" % lab.LAB_NUMBER)
+#
+#     print("Submitting to the 6.034 Webserver...")
+#
+#     server.submit_code(username, password, lab.__name__, xmlrpc.client.Binary(tarball_data))
+#
+#     print("Done submitting code.")
+#     print("Running test cases...")
+#
+#     for index, testcode in enumerate(tests):
+#         dispindex = index+1
+#         summary = test_summary(dispindex, ntests)
+#
+#         try:
+#             answer = run_test(testcode, get_lab_module())
+#         except Exception:
+#             show_exception(summary, testcode)
+#             continue
+#
+#         correct, expected = server.send_answer(username, password, lab.__name__, testcode[0], type_encode(answer))
+#         show_result(summary, testcode, correct, answer, expected, verbosity)
+#         if correct: ncorrect += 1
+#
+#     response = server.status(username, password, lab.__name__)
+#     print(response)
 
 
 
